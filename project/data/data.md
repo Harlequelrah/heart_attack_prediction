@@ -51,6 +51,7 @@ Mesurée à l’admission à l’hôpital.
 
 0 : Normal
 1 : Anomalie des ondes ST-T (peut indiquer un problème cardiaque)
+2: Hypertrophie ventriculaire gauche probable ou certaine
 
 👉 Permet de détecter des anomalies électriques du cœur.
 

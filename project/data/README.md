@@ -36,7 +36,8 @@ hospital)
 - restecg : resting electrocardiographic results
     - Value 0: normal
     - Value 1: having ST-T wave abnormality (T wave inversions and/or ST)
-
+    - Value 2: showing probable or definite left ventricular hypertrophy
+by Estes' criteria
 - thalach :  maximum heart rate achieved
 
 - exang : exercise induced angina (1 = yes; 0 = no)
